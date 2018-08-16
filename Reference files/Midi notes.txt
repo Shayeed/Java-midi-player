@@ -1,0 +1,8 @@
+1. Package javax.sound.midi -> https://docs.oracle.com/javase/7/docs/api/javax/sound/midi/package-summary.html
+2. Midi basics -> https://stackoverflow.com/questions/16462854/midi-beginner-need-to-play-one-note#
+3. Undersatanding midi -> https://www.ibm.com/developerworks/library/it/it-0801art38/
+4. Tutorials on oracle -> https://docs.oracle.com/javase/tutorial/sound/
+5. Accessing Midi -> https://docs.oracle.com/javase/tutorial/sound/accessing.html
+6. Midi synthesis -> https://docs.oracle.com/javase/tutorial/sound/accessing.html
+7. Sequencer -> https://docs.oracle.com/javase/tutorial/sound/MIDI-seq-methods.html
+8. Midi file types- > http://midi-tutor.proboards.com/thread/44/9-midi-file-formats
